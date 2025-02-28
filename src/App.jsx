@@ -1,11 +1,9 @@
-import Navbar from './components/layout/Navbar';
+import LandingPage from './pages/LandingPage';
 // import Footer from './components/layout/Footer';
 
 function App() {
   return (
-    <Navbar />
-    // <Main />
-    // <Footer />
+    <LandingPage />
   );
 }
 
